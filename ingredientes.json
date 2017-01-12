@@ -1,16 +1,5 @@
-<<<<<<< HEAD
-﻿{
-	"ingredientes":[
-		{"ingrediente": "chocolate"},
-		{"ingrediente": "harina"},
-		{"ingrediente": "azucar"},
-		{"ingrediente": "mantequilla"}
-	]
-}
-=======
 {
 	"ingredientes":[{
 		"chocolate":["harina", "azucar", "mantequilla"]
 	}]
 }
->>>>>>> origin/master
