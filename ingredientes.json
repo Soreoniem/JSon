@@ -1,9 +1,5 @@
-﻿{
-	"ingredientes": [
-		{"chocolate":[
-			"harina",
-			"azucar",
-			"mantequilla"
-		]}
-	]
+{
+	"ingredientes":[{
+		"chocolate":["harina", "azucar", "mantequilla"]
+	}]
 }
